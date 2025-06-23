@@ -1,4 +1,5 @@
-<h1>Hi, I'm Jonathon Scofield <br/><a href="https://github.com/jdscofield">Programmer</a>, <a href="www.linkedin.com/in/jdsco45">Lab Administrator</a>
+<h1>Hi, I'm Jonathon Scofield <br/><a href="https://github.com/jdscofield">Programmer</a>, <a href="www.linkedin.com/in/jdsco45">Lab Administrator</a></h1>
+<br/>
 <p>I currently work in a datacenter as a lab administrator for a larger company. I also have a wife and an almost 1 year old daughter who are everything to me. My career goals are to transition more into the software development area of the tech industry, as currently I tend to work mostly with hardware. I am finishing up my Bachelor's in Computer Science with a concentration in Data Analytics at SNHU, and had previously gotten my Associates in Computer Programming from a local community college.</p>
 
 <h2>Languages that I have experience in:</h2>
