@@ -53,7 +53,10 @@ src="[https://youtu.be/H82wgJfR-yw]">
 <br/>
 <br/>
 <h2>Sorting Algorithm</h2>
-<p>The sorting algorithm that I used was a quicksort. This was used because it can scale up to large datasets easily and is very fast and efficient at sorting elements. The quicksort divides that list of elements and sorts the divided</p>
+<p>The sorting algorithm that I used was a quicksort. This was used because it can scale up to large datasets easily and is very fast and efficient at sorting elements. The quicksort divides that list of elements and sorts the divided elements before putting them back together. This reduces that amount of processing needed to perform the actual sort as the list of elements is broken down into smaller pieces that can be tackled individually. In order to get the sorting algorithm to function I first had to overload the operators for the Trip class, which is the class that holds the information about the destinations. by overloading the '<', '>', '<=', '>=', '==' operators I could enable two Trip objects to be easily compared to each other.</p>
+
+<h2>Database</h2>
+<p>Initially I attempted to create a cloud-based sql database using Azure, however I had issues with getting the application to connect to Azure and with making sure that all users had access to the online database. Because of this I switched the implementation to a local SQLite database included with the applicaiton. This allows the data to travel with the application and also be organized and easily accessible. </p>
 
 [<img align="left" alt="Jonathon Scofield | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
