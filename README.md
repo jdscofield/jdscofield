@@ -26,7 +26,9 @@ src="https://youtu.be/H82wgJfR-yw">
 
 <p>For application design I chose C# with WPF for the gui. I had never used WPF before and so it was a learning experience not only for designing the gui itself but also for figuring out how the application's elements connected to the graphical interfaces. For the database I chose SQLite in order to store the user and trip information, and to show different algorithms I created a sorting algorithm to sort the favorited destinations by either their rating or by their name.</p>
 
-
+<h2>Application Design</h2>
+<p>For the application's design I broke it down into three major pages, all rendering on top of a window. The login page is the first page to come up and includes a textbox and passwordbox for the user login. In order to give the user the option of seeing the password's letters or not I added a checkbox that actually flips between using a passwordbox for password input and using a textbox for password input.</p>
+<img src="loginScreen.png" alt="Login Screen">
 
 
 
