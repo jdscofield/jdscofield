@@ -63,6 +63,10 @@
 <br/>
 <h2>Sorting Algorithm</h2>
 <p>The sorting algorithm that I used was a quicksort. This was used because it can scale up to large datasets easily and is very fast and efficient at sorting elements. The quicksort divides that list of elements and sorts the divided elements before putting them back together. This reduces that amount of processing needed to perform the actual sort as the list of elements is broken down into smaller pieces that can be tackled individually. In order to get the sorting algorithm to function I first had to overload the operators for the Trip class, which is the class that holds the information about the destinations. by overloading the '<', '>', '<=', '>=', '==' operators I could enable two Trip objects to be easily compared to each other. The speed of the algorithm averages at O(n log n), though in the worst case it can go down to O(n^2)</p>
+<h3>Quicksort Partition Code</h3>
+<img src="quickSortPartition.png" alt="QuickSort Partition Code">
+<h3>Quicksort Implementation Code</h3>
+<img src="quicksort.png" alt="QuickSort Implementation Code">
 
 <h2>Database</h2>
 <p>Initially I attempted to create a cloud-based sql database using Azure, however I had issues with getting the application to connect to Azure and with making sure that all users had access to the online database. Because of this I switched the implementation to a local SQLite database included with the applicaiton. This allows the data to travel with the application and also be organized and easily accessible. The database is broken up into three tables: the user database which stores the user information including username and password, the destination table which stores information about the destinations including the title, description, and rating, and the userDestination table, which is the connecting table. The userDestination table not only prevents a many-to-many relationship between the user and destination tables, but also shows which destinations have been favorited by the user.</p>
