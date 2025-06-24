@@ -41,7 +41,7 @@ src="[https://youtu.be/H82wgJfR-yw]">
 
 <br/>
 <p>Once logged in, the user accesses a page that holds the full list of destinations. The destinations are shown one at a time, with an image related to the destination as well as the title and description of the destination. The rating of the destination is also shown so that the user has an idea of how good the destinations are in comparison to each other.</p>
-<img src="tripListScreen1.png alt="Trip List Screen">
+<img src="tripListScreen1.png" alt="Trip List Screen">
 <br/>
 
 <p>If the user clicks the button with the "+" sign on it in the top right of the page then the currently viewed destination is added to that user's favorites list. The acknoledgement of this is done by turning the background of the destination information green.</p>
