@@ -21,7 +21,7 @@
 <p>For my project I took an application that allowed users to scroll through multiple different exotic destinations and read information about them, and decided to turn this into a full application that could satisfy all of the requirements of the project.</p>
 
 <h2>Informal Code Review:</h2>
-[![Informal Code Review Video](InitScreenshotVid.png)](https://youtu.be/H82wgJfR-yw?si=M2tEtAj2JsCM7YGV)
+[![Informal Code Review Video](/InitScreenshotVid.png)](https://youtu.be/H82wgJfR-yw?si=M2tEtAj2JsCM7YGV)
 
 <p>For application design I chose C# with WPF for the gui. I had never used WPF before and so it was a learning experience not only for designing the gui itself but also for figuring out how the application's elements connected to the graphical interfaces. For the database I chose SQLite in order to store the user and trip information, and to show different algorithms I created a sorting algorithm to sort the favorited destinations by either their rating or by their name.</p>
 
