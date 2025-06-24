@@ -77,8 +77,6 @@
   <li><a href="CS 499 Module Six Journal.docx">Module 6 Journal</a></li>
 </lo>
 
-<h2>Informal Code Review:</h2>
-[![Informal Code Review Video](/InitScreenshotVid.png)](https://youtu.be/H82wgJfR-yw?si=M2tEtAj2JsCM7YGV)
 
 
 
