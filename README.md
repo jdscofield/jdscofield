@@ -27,7 +27,12 @@ src="[https://youtu.be/H82wgJfR-yw]">
 <p>For application design I chose C# with WPF for the gui. I had never used WPF before and so it was a learning experience not only for designing the gui itself but also for figuring out how the application's elements connected to the graphical interfaces. For the database I chose SQLite in order to store the user and trip information, and to show different algorithms I created a sorting algorithm to sort the favorited destinations by either their rating or by their name.</p>
 
 <h2>Application Design</h2>
+<p>When I started working on the application I first drew up a design of how I wanted the application to function generally:</p>
+<img src="CS 499 Capstone Artifact 1.jpg" alt="Overall Application Design">
+
+
 <p>For the application's design I broke it down into three major pages, all rendering on top of a window. The login page is the first page to come up and includes a textbox and passwordbox for the user login. In order to give the user the option of seeing the password's letters or not I added a checkbox that actually flips between using a passwordbox for password input and using a textbox for password input.</p>
+<img src="loginDiagram.jpg" alt="Login Diagram">
 <img src="loginScreen.png" alt="Login Screen">
 
 <br/>
@@ -48,6 +53,7 @@ src="[https://youtu.be/H82wgJfR-yw]">
 <br/>
 <br/>
 <h2>Sorting Algorithm</h2>
+<p>The sorting algorithm that I used was a quicksort. This was used because it can scale up to large datasets easily and is very fast and efficient at sorting elements. The quicksort divides that list of elements and sorts the divided</p>
 
 [<img align="left" alt="Jonathon Scofield | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
