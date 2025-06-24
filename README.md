@@ -61,6 +61,17 @@
 <p>Initially I attempted to create a cloud-based sql database using Azure, however I had issues with getting the application to connect to Azure and with making sure that all users had access to the online database. Because of this I switched the implementation to a local SQLite database included with the applicaiton. This allows the data to travel with the application and also be organized and easily accessible. The database is broken up into three tables: the user database which stores the user information including username and password, the destination table which stores information about the destinations including the title, description, and rating, and the userDestination table, which is the connecting table. The userDestination table not only prevents a many-to-many relationship between the user and destination tables, but also shows which destinations have been favorited by the user.</p>
 <img src="CS499 database.jpg" alt="SQLite Database Model">
 
+<h2>Journal Entries on the Progress of Development</h2>
+<p>The following are journal entries made as I worked through the development of the capstone project: </p>
+<lo>
+  <li><a href="CS 499 Module One Assignment - Jonathon Scofield.docx">Module 1 Journal</a></li>
+  <li><a href="CS 499 Module Two Journal.docx">Module 2 Journal</a></li>
+  <li><a href="CS 499 Module Three Journal.docx">Module 3 Journal</a></li>
+  <li><a href="CS 499 Module Four Journal.docx">Module 4 Journal</a></li>
+  <li><a href="CS 499 Module Five Journal.docx">Module 5 Journal</a></li>
+  <li><a href="CS 499 Module Six Journal.docx">Module 6 Journal</a></li>
+</lo>
+
 [<img align="left" alt="Jonathon Scofield | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
