@@ -13,6 +13,9 @@
 </lo>
 <p> I also have some experience with databases, both SQL and NOSQL</p>
 
+<h2>Professional Development Through SNHU</h2>
+<p>Through my time studying at SNHU I have learned a great deal not only about science, math, and computing but also about myself. I have been challenged by assignments that before I didn't think that I would be able to work through, but was able to overcome through diligence and hard work. I have learned a lot about not only how to make computers function the way that we want them to, but also why they function the way that they do and how the applications are woven together. I have learned about how projects are designed and created in a workplace environment and how collaboration can lead to faster and more functional results than working alone. My knowledge of the industry and of the latest and upcoming technological advancements has allowed me to better look at the career options that I have available to me and how I might be able to make an impact in the industrty and in the world.</p>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h3>Capstone Project CS499</h3>
