@@ -17,6 +17,7 @@
 
 <h3>Capstone Project CS499</h3>
 <p>A link to the Full project files can be found here: </p><a href="https://github.com/jdscofield/CS-499-Travel-Application-Final">Final Capstone Project</a>
+<br/>
 <p>For my project I took an application that allowed users to scroll through multiple different exotic destinations and read information about them, and decided to turn this into a full application that could satisfy all of the requirements of the project.</p>
 
 <h2>Informal Code Review:</h2>
