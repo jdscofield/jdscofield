@@ -30,7 +30,24 @@ src="[https://youtu.be/H82wgJfR-yw]">
 <p>For the application's design I broke it down into three major pages, all rendering on top of a window. The login page is the first page to come up and includes a textbox and passwordbox for the user login. In order to give the user the option of seeing the password's letters or not I added a checkbox that actually flips between using a passwordbox for password input and using a textbox for password input.</p>
 <img src="loginScreen.png" alt="Login Screen">
 
+<br/>
+<p>The user can then go to a register screen that will allow them to create a new user. The register screen takes in the desired username as well as the desired password, and then hashes the password. The username and hashed password are then stored in the application's database so that they can be accessed later.</p>
+<img src="registerScreen.png" alt="Register Screen>
 
+<br/>
+<p>Once logged in, the user accesses a page that holds the full list of destinations. The destinations are shown one at a time, with an image related to the destination as well as the title and description of the destination. The rating of the destination is also shown so that the user has an idea of how good the destinations are in comparison to each other.</p>
+<img src="tripListScreen1.png alt="Trip List Screen">
+<br/>
+
+<p>If the user clicks the button with the "+" sign on it in the top right of the page then the currently viewed destination is added to that user's favorites list. The acknoledgement of this is done by turning the background of the destination information green.</p>
+<img src="tripListScreen2.png" alt="Trip LIst Screen Selected">
+<br/>
+
+<p>The user can then go to the favorites page, where the destinations that they favorited are listed in a listbox on the side of the screen. Selecting the favorite destination will bring up the destination information. The destinations can also be sorted here by either name or rating by using the buttons above the listbox.</p>
+<img src="favoritesScreen.png" alt="Favorites Screen">
+<br/>
+<br/>
+<h2>Sorting Algorithm</h2>
 
 [<img align="left" alt="Jonathon Scofield | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
