@@ -21,7 +21,7 @@
 
 <h2>Informal Code Review:</h2>
 <iframe width="420" height="315"
-src="[https://www.youtube.com/watch?v=H82wgJfR-yw](https://youtu.be/H82wgJfR-yw)">
+src="https://youtu.be/H82wgJfR-yw">
 </iframe>
 
 <p>For application design I chose C# with WPF for the gui. I had never used WPF before and so it was a learning experience not only for designing the gui itself but also for figuring out how the application's elements connected to the graphical interfaces. For the database I chose SQLite in order to store the user and trip information, and to show different algorithms I created a sorting algorithm to sort the favorited destinations by either their rating or by their name.</p>
