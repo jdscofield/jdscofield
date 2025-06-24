@@ -37,7 +37,7 @@ src="[https://youtu.be/H82wgJfR-yw]">
 
 <br/>
 <p>The user can then go to a register screen that will allow them to create a new user. The register screen takes in the desired username as well as the desired password, and then hashes the password. The username and hashed password are then stored in the application's database so that they can be accessed later.</p>
-<img src="registerScreen.png" alt="Register Screen>
+<img src="registerScreen.png" alt="Register Screen">
 
 <br/>
 <p>Once logged in, the user accesses a page that holds the full list of destinations. The destinations are shown one at a time, with an image related to the destination as well as the title and description of the destination. The rating of the destination is also shown so that the user has an idea of how good the destinations are in comparison to each other.</p>
