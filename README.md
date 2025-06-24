@@ -65,10 +65,10 @@
 <p>The following are journal entries made as I worked through the development of the capstone project: </p>
 <lo>
   <li><a href="CS 499 Module One Assignment - Jonathon Scofield.docx">Module 1 Journal</a></li>
-  <li><a href="CS 499 Module Two Journal.docx">Module 2 Journal</a></li>
-  <li><a href="CS 499 Module Three Journal.docx">Module 3 Journal</a></li>
-  <li><a href="CS 499 Module Four Journal.docx">Module 4 Journal</a></li>
-  <li><a href="CS 499 Module Five Journal.docx">Module 5 Journal</a></li>
+  <li><a href="CS 499 Module 2 Journal.docx">Module 2 Journal</a></li>
+  <li><a href="CS 499 Module 3 Journal.docx">Module 3 Journal</a></li>
+  <li><a href="CS 499 Module 4 Journal.docx">Module 4 Journal</a></li>
+  <li><a href="CS 499 Module 5 Journal.docx">Module 5 Journal</a></li>
   <li><a href="CS 499 Module Six Journal.docx">Module 6 Journal</a></li>
 </lo>
 
